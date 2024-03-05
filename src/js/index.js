@@ -6,3 +6,4 @@ const toggleNavbar = () => {
   const body = document.querySelector("body");
   body.classList.toggle("no-scroll");
 };
+
